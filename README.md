@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+- 🔭 I’m currently teaching the following informatic subjects @gibb-berufsfachschule-bern:
+  - Module 431: Manage a tiny IT-project
+  - Module 117: Implement the IT- and network-infrastructure for a small business
+  - Module 162: Data analysis and modelling
+  - Module 164: Database planning and data management 
+  - Module 319: Implement prodedural programm workflows
+  - Module 122: Automate system admin scripts
+  - Module 114: Use data coding, compressing and encryption technologies
+  - Module 231: Data protection and data security
+
 <!--
 **gibb-iet-mbw/gibb-iet-mbw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
